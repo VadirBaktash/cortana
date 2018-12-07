@@ -10,5 +10,10 @@ Meeting = everyone on time
 Location = Sidney Sussex College
 Time = time(Jesus) + 1.5
 
+# Third location
+Location = Newnham College
+Event = Newnham Christmas BOP
+Time = time(Sidney) + 1.5
+
 # Result
 Drunk
