@@ -1,0 +1,14 @@
+# Pubcrawl
+# Date: 7/12/18
+
+# First location
+Location = Jesus College
+Time = 7:30 pm
+Meeting = everyone on time
+
+# Second location
+Location = Sidney Sussex College
+Time = time(Jesus) + 1.5
+
+# Result
+Drunk
